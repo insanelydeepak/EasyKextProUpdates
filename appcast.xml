@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>EasyKext Pro Changelog</title>
+        <link>https://dl.dropboxusercontent.com/s/z80ll5fz52obguz/appcast.xml</link>
+        <description></description>
+        <language>en</language>
+        <item>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <title>v2.0</title>
+            <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun Aug 14 13:29:43 CEST 2016</pubDate>
+            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKex_Pro_v1.2.zip?raw=true"
+            sparkle:shortVersionString="v2.0"
+            sparkle:version="20"
+            length="4237918"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MC0CFEo4z1H1iz7CMrbaMrHKQWlSTk3hAhUArxK+lM2keeoN0lh/ZyLU7juMJSk=" />
+        </item>
+    </channel>
+</rss>
