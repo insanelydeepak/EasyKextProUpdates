@@ -9,18 +9,18 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
-            <title>v3.0</title>
-            <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+            <title>v2.0</title>
+            <sparkle:minimumSystemVersion>10.10.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
                 https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun Aug 14 13:29:43 CEST 2016</pubDate>
-            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v3.0.zip?raw=true"
-            sparkle:shortVersionString="v3.0"
+            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.0.zip?raw=true"
+            sparkle:shortVersionString="v2.0"
             sparkle:version="20"
             length="4215643"
             type="application/octet-stream"
-            sparkle:dsaSignature="MCwCFFTMUAlobdxcAPzWVeSIMDbP3uSCAhRvPZ+o5L/Vmg+vSJxLNhK9SBxojQ==" />
+             sparkle:dsaSignature="MCwCFCjkSzOpFT2AS3UUIFB7wXFMF5lxAhR4aZQ0T1gdMsFyr9FnaLsJc5bnDg==" />
         </item>
     </channel>
 </rss>
