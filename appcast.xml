@@ -7,20 +7,37 @@
         <language>en</language>
         <item>
             <sparkle:tags>
-                <sparkle:criticalUpdate />
+            <sparkle:criticalUpdate />
             </sparkle:tags>
-            <title>v2.0</title>
+            <title>Version 2.1</title>
             <sparkle:minimumSystemVersion>10.10.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>
                 https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Sun Aug 14 13:29:43 CEST 2016</pubDate>
+            <pubDate>Thur Oct 20 17:10:20 CEST 2016</pubDate>
+            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.1.zip?raw=true"
+            sparkle:shortVersionString="v2.1"
+            sparkle:version="2.1"
+            length="5742224"
+            type="application/octet-stream"
+             sparkle:dsaSignature="MCwCFHr1Bd3JkbUXG51GDBcMbKu76xJ1AhQOi1KhsQkVgrPyOG1HpJszHnoTOA==" />
+        </item>
+        <item>
+            <sparkle:tags>
+            <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <title>Version 2.0</title>
+            <sparkle:minimumSystemVersion>10.10.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed Oct 19 13:29:43 CEST 2016</pubDate>
             <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.0.zip?raw=true"
             sparkle:shortVersionString="v2.0"
-            sparkle:version="20"
-            length="4215643"
+            sparkle:version="2.0"
+            length="5391345"
             type="application/octet-stream"
-             sparkle:dsaSignature="MC0CFQCQCOeksXwsqFtZhTVzEF6CnTSU7QIUdYTXGEGN7Ys9SWFkzSe9Tszz78E=" />
+            sparkle:dsaSignature="MC0CFQCQCOeksXwsqFtZhTVzEF6CnTSU7QIUdYTXGEGN7Ys9SWFkzSe9Tszz78E=" />
         </item>
     </channel>
 </rss>
