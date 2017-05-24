@@ -18,9 +18,9 @@
             <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.4.zip?raw=true"
             sparkle:shortVersionString="v2.4"
             sparkle:version="2.4"
-            length="6082884"
+            length="6072148"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC0CFA50zFoT/eHxOVXtDCWcv7z9dyrMAhUA0acZuqTxCCuXzYefnDoGY90PaVg=" />
+            sparkle:dsaSignature="MC0CFQCJergsWh1K95QUgXHJt6fO2MHTlAIUe403itmyUHYz+Lvb84BGfJ/oiFk=" />
         </item>
         <item>
             <sparkle:tags>
