@@ -7,6 +7,23 @@
         <language>en</language>
         <item>
             <sparkle:tags>
+            <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <title>Version 2.4</title>
+            <sparkle:minimumSystemVersion>10.10.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed May 24 08:25:00 CEST 2017</pubDate>
+            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.3.zip?raw=true"
+            sparkle:shortVersionString="v2.4"
+            sparkle:version="2.4"
+            length="6072133"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MC0CFFB2a4ClysugXznYmfUbqAXT5hTVAhUAoiWgvBgz5Xc+IJ6GbVZVbW1zAX8=" />
+        </item>
+        <item>
+            <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
             <title>Version 2.3</title>
@@ -14,11 +31,11 @@
             <sparkle:releaseNotesLink>
                 https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Tue May 25 01:40:20 CEST 2017</pubDate>
+            <pubDate>Tue May 23 01:40:20 CEST 2017</pubDate>
             <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.3.zip?raw=true"
             sparkle:shortVersionString="v2.3"
             sparkle:version="2.3"
-            length="5742224"
+            length="6068421"
             type="application/octet-stream"
             sparkle:dsaSignature="MC0CFDLS8U2N97lVZkY5CgGZZ+kX2G0BAhUAj9emyoFisVBMg4U3k9x65u7ZN3w=" />
         </item>
