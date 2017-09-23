@@ -15,12 +15,12 @@
                 https://rawgit.com/insanelydeepak/EasyKextProUpdates/master/releasenotes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sat Sep 23 17:13:45 IST 2017</pubDate>
-            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.4.zip?raw=true"
+            <enclosure url="https://github.com/insanelydeepak/EasyKextProUpdates/blob/master/LatestBuild/EasyKext_Pro_v2.5.zip?raw=true"
             sparkle:shortVersionString="v2.5 "
             sparkle:version="2.5"
             length="6072148"
             type="application/octet-stream"
-            sparkle:dsaSignature="MC0CFQCJergsWh1K95QUgXHJt6fO2MHTlAIUe403itmyUHYz+Lvb84BGfJ/oiFk=" />
+            sparkle:dsaSignature="MC4CFQC1TwQEhRNIRtyfeS6FGXgWUz9uIwIVAJrVjyp53hLzIpPR03nav/aYQg+S" />
         </item>
         <item>
             <sparkle:tags>
